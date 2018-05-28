@@ -1,0 +1,21 @@
+greggstyle:
+  name: "Greg's home"
+  description: "Stylish home by the river"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+Feiko1:
+  name: "Feiko's crib"
+  description: "A hip flat in Amsterdam"
+  city_name: "Amsterdam, The Netherlands"
+  city_slug: "amsterdam"
+  wifi: true
+  rating: 4
+manizhatj:
+  name: "Manizha's palace"
+  description: "Regal palace by the water"
+  city_name: "Lisbon, Portugal"
+  city_slug: "lisbon"
+  wifi: true
+  rating: 5
